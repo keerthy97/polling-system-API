@@ -2,7 +2,6 @@
 
 A simple polling system api where anyone can create questions with options and can also add votes to those options.
 
-#### As the project is developed solely as an API without a frontend for user visualization, it cannot be hosted with a URL.
 
 - Sample Question
   ![question](./images/view_question.png)
@@ -48,3 +47,5 @@ npm start
 - /questions/ (To list down all the questions)
 
 ---
+
+#### As the project is developed solely as an API without a frontend for user visualization, it cannot be hosted with a URL.
