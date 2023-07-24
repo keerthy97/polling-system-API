@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Kashyap Patel",
+  "author": "keerthi",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
