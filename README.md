@@ -1,6 +1,6 @@
 # POLLING SYSTEM API
 
-A simple polling system api where anyone can create questions with options and can also add votes to those options.
+A simple polling system API where anyone can create questions with options and can also add votes to those options. The project is a simple polling system API that allows developers to create, manage, and retrieve data from a polling platform. Users can create questions with options and collect votes from participants. This API is a versatile tool for integrating polls, surveys, and quizzes into various applications and websites, making it easy to gather valuable feedback and insights from users.
 
 
 - Sample Question
