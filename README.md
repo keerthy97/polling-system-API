@@ -34,7 +34,7 @@ npm start
 
 - Navigate to `http://localhost:8000/` in the postman or any other API testing app
 
-## Endpoints
+## Endpoints for Testing the api
 
 - /questions/create (To create a question)
 - /questions/:questionId/options/create (To add options to a specific question)
