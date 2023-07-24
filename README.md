@@ -37,7 +37,7 @@ npm start
 
 - Navigate to `http://localhost:8000/` for the local client
 - Navigate to `https://polling-system-api-x8xt.onrender.com` for the web hosted url link
-- in the postman or any other API testing app 
+- Perform the actions listed below in the postman or any other API testing app 
 
 ## Endpoints for testing the API
 
@@ -51,4 +51,4 @@ npm start
 
 ---
 
-#### As the project is developed solely as an API without a frontend for user visualization, it cannot be hosted with a URL.
+#### As the project is developed solely as an API without a frontend for user visualization.
