@@ -51,4 +51,4 @@ npm start
 
 ---
 
-#### As the project is developed solely as an API without a frontend for user visualization.
+#### The project is developed solely as an API without a frontend for user visualization.
