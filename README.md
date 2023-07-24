@@ -43,5 +43,3 @@ npm start
 - /questions/ (To list down all the questions)
 
 ---
-
-## <samp>**_Enjoy Learning!!!_**</samp>
