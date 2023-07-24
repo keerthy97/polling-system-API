@@ -1,6 +1,7 @@
 # POLLING SYSTEM API
 
 A simple polling system api where anyone can create questions with options and can also add votes to those options.
+### sample question: ![](./images/view_question)
 
 ## Requirements
 
