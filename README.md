@@ -32,7 +32,7 @@ npm install
 npm start
 ```
 
-- Navigate to `http://localhost:8000/`
+- Navigate to `http://localhost:8000/` in the postman or any other API testing app
 
 ## Endpoints
 
