@@ -1,7 +1,8 @@
 # POLLING SYSTEM API
 
 A simple polling system API where anyone can create questions with options and can also add votes to those options. The project is a simple polling system API that allows developers to create, manage, and retrieve data from a polling platform. Users can create questions with options and collect votes from participants. This API is a versatile tool for integrating polls, surveys, and quizzes into various applications and websites, making it easy to gather valuable feedback and insights from users.
-
+### Hosted Link: https://polling-system-api-x8xt.onrender.com
+### Github Repo Link: https://github.com/keerthy97/polling-system-API/tree/master
 
 - Sample Question
   ![question](./images/view_question.png)
@@ -34,7 +35,9 @@ npm install
 npm start
 ```
 
-- Navigate to `http://localhost:8000/` in the postman or any other API testing app
+- Navigate to `http://localhost:8000/` for the local client
+- Navigate to `https://polling-system-api-x8xt.onrender.com` for the web hosted url link
+- in the postman or any other API testing app 
 
 ## Endpoints for testing the API
 
