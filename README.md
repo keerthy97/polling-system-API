@@ -34,6 +34,8 @@ npm start
 
 - Navigate to `http://localhost:8000/` in the postman or any other API testing app
 
+##### As the project is developed solely as an API without a frontend for user visualization, it cannot be hosted with a URL.
+
 ## Endpoints for testing the API
 
 - /questions/create (To create a question)
